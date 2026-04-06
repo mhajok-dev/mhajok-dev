@@ -56,7 +56,7 @@ Topics and technologies I worked with during my studies:
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**MonsterSim**](https://github.com/mhajok-dev/MonsterSim) | Turn-based monster fight simulator with ASCII art, HP bars, special abilities and polymorphism | C# |
-| [**BattleShip - Raylib Edition**](https://github.com/mhajok-dev/Battleship-RaylibEdition) | A graphical Battleship game build in C++ using raylib, featuring an AI opponent with Hunt and Target algorithm | C++ |
+| [**BattleShip - Raylib Edition**](https://github.com/mhajok-dev/Battleship-RaylibEdition) | A graphical Battleship game built in C++ using raylib, featuring an AI opponent with Hunt and Target algorithm | C++ |
 
 > More projects coming soon.
 
