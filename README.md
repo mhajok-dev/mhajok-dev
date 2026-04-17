@@ -57,7 +57,7 @@ Topics and technologies I worked with during my studies:
 |---------|-------------|------|
 | [**MonsterSim**](https://github.com/mhajok-dev/MonsterSim) | Turn-based monster fight simulator with ASCII art, HP bars, special abilities and polymorphism | C# |
 | [**BattleShip - Raylib Edition**](https://github.com/mhajok-dev/Battleship-RaylibEdition) | A graphical Battleship game built in C++ using raylib, featuring an AI opponent with Hunt and Target algorithm | C++ |
-| [**WMS - Warehouse Management System**](https://github.com/mhajok-dev/WMS) | A desktop warehouse management system for handling inventory, employees and shift planing | C++ |
+| [**WMS - Warehouse Management System**](https://github.com/mhajok-dev/WMS) | A desktop warehouse management system for handling inventory, employees and shift planning | C++ |
 
 > More projects coming soon.
 
