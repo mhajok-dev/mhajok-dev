@@ -1,90 +1,98 @@
-<h1 align="center">Hi 👋, I'm Marcel Hajok</h1>
-<h3 align="center">Aspiring Software Developer | Game Development Background</h3>
+# Hi, I'm Marcel Hajok
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%23+Developer;C%2B%2B+Developer;Unity+Developer;Unreal+Engine+Developer;Game+Programming&center=true&width=500&height=45">
-</p>
+Software development candidate focused on practical applications, C++ and C#.
 
-<p align="center">
-  🎯 Currently looking for an apprenticeship as a <strong>Fachinformatiker für Anwendungsentwicklung</strong>
-</p>
+📌 Currently seeking an apprenticeship as **Fachinformatiker für Anwendungsentwicklung**.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Featured Projects
 
-I studied **Game Programming at SAE Institute**, where I gained experience with technologies used in game development.
-My main focus is **software development, gameplay systems and programming fundamentals**.
+### 📦 Warehouse Management System
 
-Currently I am building projects and expanding my **GitHub portfolio** while improving my development skills.
-I enjoy solving technical problems and creating well-structured, maintainable code.
+Desktop warehouse management software focused on real business workflows.
 
----
+**Features**
+- Login & role management
+- Inventory / stock control
+- Shift planning with rule validation
+- Activity logging
+- SQLite integration
 
-## 🎓 Education
+**Tech:** `C++` `SQLite` `Dear ImGui` `DirectX11`
 
-**SAE Institute — Game Programming**
-
-Topics and technologies I worked with during my studies:
-
-- Object-Oriented Programming
-- Gameplay Programming
-- Game Mechanics & Systems
-- C# · C++ · Unity Engine · Unreal Engine
+🔗 [Repository](https://github.com/mhajok-dev/WMS)  
+⬇️ [Download Release](https://github.com/mhajok-dev/WMS/releases)
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🚢 Battleship
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,git,github,visualstudio,vscode,rider" />
-</p>
+Turn-based strategy game built in modern C++.
 
----
+**Highlights**
+- AI opponent using Hunt & Target logic
+- State machine architecture
+- Clean object-oriented design
+- raylib graphics & audio
 
-## 🚧 Current Focus
+**Tech:** `C++` `raylib`
 
-- Strengthening my **C++ programming skills**
-- Building a **portfolio of clean, well-structured projects**
-- Improving my **software architecture knowledge** (OOP, SOLID, Design Patterns)
-- Learning more about **game systems and engine programming**
-
----
-
-## 📂 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**MonsterSim**](https://github.com/mhajok-dev/MonsterSim) | Turn-based monster fight simulator with ASCII art, HP bars, special abilities and polymorphism | C# |
-| [**BattleShip - Raylib Edition**](https://github.com/mhajok-dev/Battleship-RaylibEdition) | A graphical Battleship game built in C++ using raylib, featuring an AI opponent with Hunt and Target algorithm | C++ |
-| [**WMS - Warehouse Management System**](https://github.com/mhajok-dev/WMS) | A desktop warehouse management system for handling inventory, employees and shift planning | C++ |
-
-> More projects coming soon.
+🔗 [Repository](https://github.com/mhajok-dev/Battleship-RaylibEdition)  
+⬇️ [Download Release](https://github.com/mhajok-dev/Battleship-RaylibEdition/releases)
 
 ---
 
-## 📊 GitHub Stats
+### 🧪 LocalConvert *(coming soon)*
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mhajok-dev&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhajok-dev&layout=compact&theme=tokyonight"/>
-</p>
+Privacy-first desktop file converter that processes files locally.
+
+**Planned MVP**
+- Drag & Drop
+- Batch conversion
+- PNG ↔ JPG
+- WebP support
+- Markdown → PDF
+- Dark mode
+
+**Planned Tech:** `C#` `.NET`
 
 ---
 
-## 🔥 GitHub Streak
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhajok-dev&theme=tokyonight"/>
-</p>
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+
+### Tools / Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=rider&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+- Building strong portfolio projects
+- Deepening C++ and C# skills
+- Learning modern desktop development with .NET
+- Preparing for apprenticeship start in 2026
+
+---
+
+## 💬 About Me
+
+I enjoy building real software, solving problems and continuously improving my skills through hands-on projects.
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** [mhajok.dev@outlook.com](mailto:mhajok.dev@outlook.com)  
-💻 **GitHub:** [github.com/mhajok-dev](https://github.com/mhajok-dev)
-
----
-
-<p align="center"><i>"Always learning. Always building."</i></p>
+📧 **Email:** [hajok7193@gmail.com](mailto:hajok7193@gmail.com) (Primary)  
+📧 **Alternative:** [mhajok-dev@outlook.com](mailto:mhajok-dev@outlook.com)  
+📍 **Location:** Hofheim am Taunus, Germany  
+🚀 **Status:** Open to apprenticeship opportunities in Germany.
